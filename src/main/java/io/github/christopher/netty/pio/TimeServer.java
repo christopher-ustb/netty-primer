@@ -1,4 +1,4 @@
-package io.github.christopher.netty.pseudoAsync;
+package io.github.christopher.netty.pio;
 
 import io.github.christopher.netty.bio.TimeServerHandler;
 

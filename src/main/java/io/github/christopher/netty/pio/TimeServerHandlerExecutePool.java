@@ -1,4 +1,4 @@
-package io.github.christopher.netty.pseudoAsync;
+package io.github.christopher.netty.pio;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.ExecutorService;
